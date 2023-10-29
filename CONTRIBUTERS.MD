@@ -55,7 +55,10 @@
 | Nikhil Chapre          | [@NikhilC2209](https://github.com/NikhilC2209)                | 0                                                            |
 | Ankit Sharma           | [@ANKITSHARMA98](https://github.com/ANKITSHARMA98)            | 0                                                            |
 | Nikhil Sachan          | [@nikhil254](https://github.com/nikhil254)                    | 0                                                            |
-| Ritik Bagora           | [@ritik1999](https://github.com/ritik1999)                    | 0                                                            |
+| Ritik Bagora           | [@ritik1999](https://github.com/ritik1999) 
+
+| chanchal kuntal        | [@Chnachal-D](https://github.com/Chanchal-D)                  | 0
+
 | Raghav Agarwal         | [@ragharwal](https://github.com/ragharwal)                    | 0                                                            |
 | Ananya Sharma          | [@AnanyaSharma22](https://github.com/AnanyaSharma22)          | 0                                                            |
 | Kwame Violet Taylor    | [@KwameTaylor](https://github.com/KwameTaylor)                | 1                                                            |
